@@ -7,7 +7,7 @@ For my project, I have decided to use for loops to encrypt and decrypt the file.
 different classes: FileHandler, FourSquareCipherNestedFor, Menu, and Runner. While for loops aren't the most 
 efficient way of doing this project, they are very simple to implement. 
 
-FileHandler reads in the file,adds the file to a String list, removes all spaces, commas, etc. and replaces any J's with I's,
+FileHandler reads in the file, adds the file to a String list, removes all spaces, commas, etc. and replaces any J's with I's,
 converts the characters to uppercase and converts it to a character array. It does this for both the pre encrypted file 
 and the encrypted file.
 
